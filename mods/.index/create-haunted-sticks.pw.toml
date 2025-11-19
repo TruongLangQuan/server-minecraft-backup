@@ -1,0 +1,17 @@
+name = "Create: Haunted Sticks"
+filename = "Haunted Sticks 1.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b760fa498a4907a548cea8b054a70de986a300ef"
+
+[update]
+[update.curseforge]
+file-id = 6637938
+project-id = 1283671
+
+[update.do_updates]
+do_updates = "true"

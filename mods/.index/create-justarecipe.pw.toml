@@ -1,0 +1,17 @@
+name = "Create: JustARecipe"
+filename = "create-justarecipe-0.3.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/oQTG9U8S/versions/PC17K8IA/create-justarecipe-0.3.5.jar"
+hash-format = "sha512"
+hash = "b00d5c20747b446e23411144185e31787ffd190cc947660ef6d7ee44d0337c044194a57e580f22c9fff14fd388488cf9578b2032c865dd87315170a0691b19ff"
+
+[update]
+[update.modrinth]
+mod-id = "oQTG9U8S"
+version = "PC17K8IA"
+
+[update.do_updates]
+do_updates = "true"
