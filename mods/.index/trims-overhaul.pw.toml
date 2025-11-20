@@ -1,0 +1,17 @@
+name = "Trims Overhaul [NEW]"
+filename = "trims_overhaul-MOD-v3.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lBHH38D3/versions/HzUmdyFz/trims_overhaul-MOD-v3.1.0.jar"
+hash-format = "sha512"
+hash = "150fb189a0248c250e52cd0eaaac54c80f2b007ee444f681678e9d31afd66183e1f403412819724efff9f305057de72c07dc7a1e48e15d76d0938f8ae3c223ae"
+
+[update]
+[update.modrinth]
+mod-id = "lBHH38D3"
+version = "HzUmdyFz"
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "Path Speed Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "path-speed-enchantment-v1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "403e1b517f4cdaffec341687cd7f3bf18fee463c"
+
+[update]
+[update.curseforge]
+file-id = 6684334
+project-id = 1254711
+
+[update.do_updates]
+do_updates = "true"

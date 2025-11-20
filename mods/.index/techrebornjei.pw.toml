@@ -1,0 +1,17 @@
+name = "TechRebornJEI"
+filename = "TechRebornJEI-21.1.7.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/FaJv0NSi/versions/Q7vDXbgr/TechRebornJEI-21.1.7.jar"
+hash-format = "sha512"
+hash = "49dfd18da2935627971db904aa426a3418b837d7528f2f081376d24227d17d14b3c59eb83b7e481a2eddafdb26e3d0efa8a988a2d89ace889cd2f4c119f067f4"
+
+[update]
+[update.modrinth]
+mod-id = "FaJv0NSi"
+version = "Q7vDXbgr"
+
+[update.do_updates]
+do_updates = "true"

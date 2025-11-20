@@ -1,0 +1,17 @@
+name = "Create: Renewable Diamonds"
+filename = "create-renewable-diamonds-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/IxTis4hc/versions/QWosIKxu/create-renewable-diamonds-1.0.0.jar"
+hash-format = "sha512"
+hash = "2cda79de91daabadae2f7b0acfa9e8ca80044ecd027686072d125f918dc24f6bd0992eaed8050928080ae7bd6ca3ac544feebbe113ad77d1066fb1f020ee30d2"
+
+[update]
+[update.modrinth]
+mod-id = "IxTis4hc"
+version = "QWosIKxu"
+
+[update.do_updates]
+do_updates = "true"

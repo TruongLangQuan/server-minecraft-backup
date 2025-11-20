@@ -1,0 +1,17 @@
+name = "True Shot Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "true-shot-enchantment-v1.0.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "447b5e27b9771ec22c519c4a3113a16101005948"
+
+[update]
+[update.curseforge]
+file-id = 6684331
+project-id = 1243706
+
+[update.do_updates]
+do_updates = "true"

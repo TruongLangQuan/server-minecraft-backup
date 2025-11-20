@@ -1,0 +1,17 @@
+name = "Swiftness Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "swiftness-enchantment-v1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f9d122ba57e4b0a9ce84acf055fe2f82f5bcf948"
+
+[update]
+[update.curseforge]
+file-id = 6952974
+project-id = 1259949
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "Vision Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "vision-enchantment-v1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "efef355eb0befc871290f2ac5834c9dbdf0b1ce9"
+
+[update]
+[update.curseforge]
+file-id = 6684338
+project-id = 1268078
+
+[update.do_updates]
+do_updates = "true"

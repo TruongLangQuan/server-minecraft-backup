@@ -1,0 +1,17 @@
+name = "Poisoning Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "poisoning-enchantment-v1.0.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f84c8d09cc9361e8c5d54450622ab3f5ac2b9e24"
+
+[update]
+[update.curseforge]
+file-id = 6684332
+project-id = 1254709
+
+[update.do_updates]
+do_updates = "true"

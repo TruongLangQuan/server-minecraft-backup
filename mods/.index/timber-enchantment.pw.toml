@@ -1,0 +1,17 @@
+name = "Timber Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "timber-enchantment-v1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "e026cec8f149583b0d4871be7dfcce64de337b94"
+
+[update]
+[update.curseforge]
+file-id = 6908838
+project-id = 1321889
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "Attack Speed Enchantment!"
+filename = "attack-speed-enchantment-v1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "37729799221895b681e5e397aa337c33d8135715"
+
+[update]
+[update.curseforge]
+file-id = 7035655
+project-id = 1353978
+
+[update.do_updates]
+do_updates = "true"

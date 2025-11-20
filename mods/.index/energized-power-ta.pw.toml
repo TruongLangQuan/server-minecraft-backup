@@ -1,0 +1,17 @@
+name = "Energized Power - The Aether"
+filename = "energizedpowerta-1.21.1-1.0.1-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/3tCbCCSA/versions/dIQQn9UV/energizedpowerta-1.21.1-1.0.1-fabric.jar"
+hash-format = "sha512"
+hash = "b9a59eee1244c6cc42178f43a723be41690b1c6376d18d2caece39bab6cbfc22860305c3bde7ce795cb07390a4d7aa1053db2d758e705123ddb2bc580b348547"
+
+[update]
+[update.modrinth]
+mod-id = "3tCbCCSA"
+version = "dIQQn9UV"
+
+[update.do_updates]
+do_updates = "true"

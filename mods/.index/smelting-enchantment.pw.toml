@@ -1,0 +1,17 @@
+name = "Smelting Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "smelting-enchantment-v1.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f287858b7612072a6fe2cb66fcc42ea036bd0d34"
+
+[update]
+[update.curseforge]
+file-id = 7123541
+project-id = 1227583
+
+[update.do_updates]
+do_updates = "true"

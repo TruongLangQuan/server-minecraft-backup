@@ -1,0 +1,17 @@
+name = "Health Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "health-enchantment-v1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "94525dbe0ac7d5c469072bd7866d731cc0eb7498"
+
+[update]
+[update.curseforge]
+file-id = 6637029
+project-id = 1254712
+
+[update.do_updates]
+do_updates = "true"

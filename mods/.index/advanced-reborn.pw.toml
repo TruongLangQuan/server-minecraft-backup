@@ -1,0 +1,17 @@
+name = "Advanced Reborn"
+filename = "AdvancedReborn-1.21.1-1.3.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ir8okcEA/versions/kPsGsZkl/AdvancedReborn-1.21.1-1.3.4.jar"
+hash-format = "sha512"
+hash = "5271734bb643c56bf0ed052da39f8db08b67231b89c746e0a0ef024b0ee6d16df6896539c59909c981321709dde0577bc8697153bc4af7b3f391b355b6fbe539"
+
+[update]
+[update.modrinth]
+mod-id = "ir8okcEA"
+version = "kPsGsZkl"
+
+[update.do_updates]
+do_updates = "true"

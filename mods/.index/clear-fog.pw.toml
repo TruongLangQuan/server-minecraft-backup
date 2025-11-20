@@ -1,0 +1,17 @@
+name = "No Fog"
+filename = "NoFog-1.21-1.21.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/46n24c6r/versions/TzIwjLHe/NoFog-1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "f1118b6cd51067d27b32646f73d1a935f76a4d7d5a19e66643faaa0b9edc13e9edebf45381adcb5a5978309e343fde1deb8a05505ee6088a9398d6d9bc230c02"
+
+[update]
+[update.modrinth]
+mod-id = "46n24c6r"
+version = "TzIwjLHe"
+
+[update.do_updates]
+do_updates = "true"

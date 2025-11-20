@@ -1,0 +1,17 @@
+name = "Additional Enchanted Miner"
+filename = "AdditionalEnchantedMiner-1.21.1-fabric-21.1.135.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "97c5092c2de384216417c485bfbfb16424ec7b9e"
+
+[update]
+[update.curseforge]
+file-id = 6947195
+project-id = 282837
+
+[update.do_updates]
+do_updates = "true"

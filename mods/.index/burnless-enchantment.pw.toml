@@ -1,0 +1,17 @@
+name = "Burnless Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "burnless-enchantment-v1.0.0-1.21-1.21.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "182cb1af8d692d41d732d3871ae8a35dcd599756"
+
+[update]
+[update.curseforge]
+file-id = 6501239
+project-id = 1227581
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "Withering Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "withering-enchantment-v1.0.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "9daa8418157db804de512fc1bc32aa95fd39a78c"
+
+[update]
+[update.curseforge]
+file-id = 6684323
+project-id = 1238535
+
+[update.do_updates]
+do_updates = "true"

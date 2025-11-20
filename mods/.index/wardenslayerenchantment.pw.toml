@@ -1,0 +1,17 @@
+name = "Warden Slayer Enchantment"
+filename = "WardenSlayer-1.21-1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5993c433a9bbf987131dc1ca957e3508e4fc65ec"
+
+[update]
+[update.curseforge]
+file-id = 5805781
+project-id = 835517
+
+[update.do_updates]
+do_updates = "true"

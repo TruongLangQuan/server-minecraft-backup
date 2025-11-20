@@ -1,0 +1,17 @@
+name = "Farmer Enchants [Light QoL for Farmers] (Fabric)"
+filename = "Farmer Enchants v1.1.0-1.21.0,1 Fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/VifXuvHK/versions/q9sx22kf/Farmer Enchants v1.1.0-1.21.0%2C1 Fabric.jar"
+hash-format = "sha512"
+hash = "fd749e4beba83bbc142a97df1e1e1824800df32babee57b73b2c3ad52c89e9b2da633425c753add2441ec0d18c5867a1ebb80326d6750ce4497997804308df2d"
+
+[update]
+[update.modrinth]
+mod-id = "VifXuvHK"
+version = "q9sx22kf"
+
+[update.do_updates]
+do_updates = "true"

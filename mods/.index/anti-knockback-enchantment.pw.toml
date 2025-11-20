@@ -1,0 +1,17 @@
+name = "Anti Knockback Enchantment"
+filename = "anti-knockback-enchantment-v1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "790d9b2dbe3c2d37af6703975cfa1cedd7d36b39"
+
+[update]
+[update.curseforge]
+file-id = 6794882
+project-id = 1311194
+
+[update.do_updates]
+do_updates = "true"

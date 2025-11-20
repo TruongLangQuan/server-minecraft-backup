@@ -1,0 +1,17 @@
+name = "Reach Enchantment"
+filename = "ly-reach-enchantment-v1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d886815cf205c5f3ccd82de4556bff2cb8c6c735"
+
+[update]
+[update.curseforge]
+file-id = 7242381
+project-id = 1353973
+
+[update.do_updates]
+do_updates = "true"

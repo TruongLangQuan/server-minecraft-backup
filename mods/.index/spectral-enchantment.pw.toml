@@ -1,0 +1,17 @@
+name = "Spectral Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "spectral-enchantment-v1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "072a2ec9c30c60de8c4d59056574ac92c62db605"
+
+[update]
+[update.curseforge]
+file-id = 6684333
+project-id = 1254715
+
+[update.do_updates]
+do_updates = "true"

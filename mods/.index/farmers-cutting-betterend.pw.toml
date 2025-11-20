@@ -1,0 +1,17 @@
+name = "Farmer's Cutting: BetterEnd"
+filename = "farmers-cutting-betterend-1.21.1-2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ROV8mPB1/versions/fIzeYTnt/farmers-cutting-betterend-1.21.1-2.0.jar"
+hash-format = "sha512"
+hash = "6357de5463ffa3a116b74cf03981644e334d65114b09702fae247009b43b595f3e75106589b5cf8843f9951f436d5dec05be25df93096b4bffdd60a615332f4d"
+
+[update]
+[update.modrinth]
+mod-id = "ROV8mPB1"
+version = "fIzeYTnt"
+
+[update.do_updates]
+do_updates = "true"

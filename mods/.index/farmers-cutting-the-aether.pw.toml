@@ -1,0 +1,17 @@
+name = "Farmer's Cutting: The Aether"
+filename = "farmers-cutting-the-aether-1.21.1-1.0-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/W77u83l0/versions/cNzZRWwB/farmers-cutting-the-aether-1.21.1-1.0-fabric.jar"
+hash-format = "sha512"
+hash = "d14c2dde098bb4a1d6856132834de7a2e7df2fd47b80ea1f30bb2515593517c78a49c32b0ef7b228653527fdf19bb7b5df37ad69f6e05c58330f3906f17be908"
+
+[update]
+[update.modrinth]
+mod-id = "W77u83l0"
+version = "cNzZRWwB"
+
+[update.do_updates]
+do_updates = "true"

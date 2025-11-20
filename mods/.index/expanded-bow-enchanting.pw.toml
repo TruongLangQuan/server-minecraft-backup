@@ -1,0 +1,17 @@
+name = "Expanded Bow Enchanting"
+filename = "expanded-bow-enchanting-1.1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2fc35ac4e2dbf8d1eedd9f63fd0833740ad5f8da"
+
+[update]
+[update.curseforge]
+file-id = 5633402
+project-id = 875909
+
+[update.do_updates]
+do_updates = "true"

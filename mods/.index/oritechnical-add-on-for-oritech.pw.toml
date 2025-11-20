@@ -1,0 +1,17 @@
+name = "Oritechnical - Add on for Oritech"
+filename = "oritechnical-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/6qnZv5A4/versions/uDZWPsyT/oritechnical-1.0.0.jar"
+hash-format = "sha512"
+hash = "b5a2d50f9c9789ecac597ffe4f10a845401e42ddf6a1646dcd62346a85692ad3b5f49917996122cd39840acce283fa8c4f238cedfaa94f027e847c1de9514712"
+
+[update]
+[update.modrinth]
+mod-id = "6qnZv5A4"
+version = "uDZWPsyT"
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "Item Alchemy"
+filename = "itemalchemy-1.1.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/cfQx2fbQ/versions/hfT3c9cM/itemalchemy-1.1.4.jar"
+hash-format = "sha512"
+hash = "a75325917a3947260561f62c1c5abb77e4736bd7b41ac9f2effdbbe5f07bb361acef82208567ac296cec089b7d674456579b366b159dab5f028a4db2eaa3a108"
+
+[update]
+[update.modrinth]
+mod-id = "cfQx2fbQ"
+version = "hfT3c9cM"
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "Datapack Portals"
+filename = "datapackportals-1.2.3-1.21.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/LwFVdT1s/versions/4sHgGPN1/datapackportals-1.2.3-1.21.jar"
+hash-format = "sha512"
+hash = "c188f4560f949dacfceec863cc3c5eb30ffa2ff796f9cf8a12c95977d93ac9b704005657887f69bc6a355485c1a86a3e84211384005bf19eede9dbb053bd3f78"
+
+[update]
+[update.modrinth]
+mod-id = "LwFVdT1s"
+version = "4sHgGPN1"
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "EmiTechReborn"
+filename = "EmiTechReborn-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/MF8Uygnx/versions/TJJ53dld/EmiTechReborn-1.0.1.jar"
+hash-format = "sha512"
+hash = "7804c47a8cd0c90658a754557edd65e902742d846436b013938b9dc2a4dd9d6e1f293efbdb6877cee6edf54a886dc8834c120e721350f7740f5204553ded241b"
+
+[update]
+[update.modrinth]
+mod-id = "MF8Uygnx"
+version = "TJJ53dld"
+
+[update.do_updates]
+do_updates = "true"

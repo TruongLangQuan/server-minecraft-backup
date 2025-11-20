@@ -1,0 +1,17 @@
+name = "Gravity Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "gravity-enchantment-v1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d0216ebd017b86882a16ea85631a334594d1475f"
+
+[update]
+[update.curseforge]
+file-id = 6794905
+project-id = 1311199
+
+[update.do_updates]
+do_updates = "true"

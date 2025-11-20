@@ -1,0 +1,17 @@
+name = "Energized Power - Regions Unexplored"
+filename = "energizedpowerru-1.21.1-1.0.1-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/2x078t9D/versions/N78zyWpY/energizedpowerru-1.21.1-1.0.1-fabric.jar"
+hash-format = "sha512"
+hash = "a98da1a2e9d35bcdd2249f6eb7c8cda54887c3e06329dcf46088a8d1664be367d9a72864fece65dbcaf01e80060f0a74ba66aec3f6ab4b311993e31b657e3211"
+
+[update]
+[update.modrinth]
+mod-id = "2x078t9D"
+version = "N78zyWpY"
+
+[update.do_updates]
+do_updates = "true"

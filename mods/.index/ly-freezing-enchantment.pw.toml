@@ -1,0 +1,17 @@
+name = "Freezing Enchantment!"
+filename = "freezing-enchantment-v1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1dbbbfd145029ec64b32c57e0a32b659ea1c57d0"
+
+[update]
+[update.curseforge]
+file-id = 6794896
+project-id = 1311198
+
+[update.do_updates]
+do_updates = "true"

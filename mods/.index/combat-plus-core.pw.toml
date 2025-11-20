@@ -1,0 +1,17 @@
+name = "Combat+ Core"
+filename = "combatplus-core-3.2.0+1.21.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c59df00b1040f460a320fda53fbc1a11ad0dc406"
+
+[update]
+[update.curseforge]
+file-id = 6128103
+project-id = 973671
+
+[update.do_updates]
+do_updates = "true"

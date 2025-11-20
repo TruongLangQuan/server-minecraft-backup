@@ -1,0 +1,17 @@
+name = "Air Jump Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "air-jump-enchantment-v1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "99f8f2954a65609bb65640e29528aa10fbd5ba14"
+
+[update]
+[update.curseforge]
+file-id = 6823792
+project-id = 1292199
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "Soulbound Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "ly-soulbound-enchantment-v1.0.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6a98cc3001ee7837b4f7842082595c115d75ed9f"
+
+[update]
+[update.curseforge]
+file-id = 7123498
+project-id = 1233471
+
+[update.do_updates]
+do_updates = "true"

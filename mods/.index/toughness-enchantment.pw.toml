@@ -1,0 +1,17 @@
+name = "Toughness Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "toughness-enchantment-v1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "340ff22d4148dc0b4b6a28c740925a27fbfae124"
+
+[update]
+[update.curseforge]
+file-id = 6637030
+project-id = 1254723
+
+[update.do_updates]
+do_updates = "true"

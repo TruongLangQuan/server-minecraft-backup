@@ -1,0 +1,17 @@
+name = "Life Steal Enchantment!"
+filename = "ly-life-steal-enchantment-v1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "86e5354970cd3d32f22a06cecfe8d6d7e3e00241"
+
+[update]
+[update.curseforge]
+file-id = 6957857
+project-id = 1311190
+
+[update.do_updates]
+do_updates = "true"
